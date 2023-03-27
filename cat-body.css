@@ -1,0 +1,240 @@
+body {
+  background: #000;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+.alert-dark{color:#fff;background-color:#006436;border-color:#111}.alert-dark .alert-link{color:#101214}
+  
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%!important; height: 100%; } 
+  
+.doctor-profile-tabs button{border:none;background-color:#006436;color:#fff!important;font-size:15px;border-bottom:3px solid #222;border-top:0px solid #222;padding:10px 8px}.doctor-profile-tabs button.active{color:#fff!important;border-bottom:3px solid;font-weight:500;background:#111;border-top:0px solid #222}.review-profile{width:35px}.offcanvas{border-top-left-radius:2rem;border-top-right-radius:2rem}
+ 
+.navbar-expand-lg a{color:#fff;}
+.nav-scroller a {color:#ccc;padding: 0.7rem 1rem;}
+.nav-scroller a.active {color:#fff;font-size:1em;}
+
+.game-itme {padding:5px;background:#151515;color:#fff;border-radius:0px;}
+.game-itme {margin-left:10px;margin-right:10px;margin-top:5px;border-radius:5px;}
+.game-itme a {text-decoration:none;}
+.game-itme:hover {background:#222;}
+.game-itme img {width:25px;margin-right:5px;margin-left:0px;}
+  
+.game-itme2 {padding:2px;background:#000;color:#fff;border-radius:0px;}
+.game-itme2 {margin-left:10px;margin-right:10px;margin-top:5px;border-radius:5px;}
+
+.time-is-captitle {color:#999;font-size:13px;text-align:left;margin-top:5px;margin-bottom:5px;margin-left:10px;}
+.bg-card {background:#25282d;color:#8f9092;}
+ 
+.atas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background: #06143c;
+  width: 100%;
+  height: 60px;
+}
+  
+.judul {
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 15px;
+}
+  
+.btn2 {
+  background: #111;
+  padding-top: 5px;
+  padding-bottom: 8px;
+  padding-left: 7px;
+  padding-right: 5px;
+  margin-right: 5px;
+  border-radius: 6px;
+}
+.btn-sx {
+  font-size: 10px;
+  padding: 0.25rem 0.500rem;
+  border-radius: 0rem;
+}  
+.btn-traktir {
+  color: #ffffff;
+  border-radius: 0rem;
+  background-color: #111;
+  border-color: #111;
+  }  
+@media screen and (min-width: 570px) {
+  .split {
+  height: 100vh;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 0px;
+}
+  .left {
+  left: 0;
+  top: 60px;
+   width: 60%;
+  background-color: #000;
+}
+  .right {
+  right: 0;
+    width: 40%;
+  top: 60px;
+  background-color: #000;
+}
+}
+
+.jalan {
+  width: 100%;
+  background: #111;
+  margin-top: 0px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+
+.marq {
+  color: #fff;
+  font-size: 15px;
+  padding-top: 5px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.kotak {
+  position: relative;
+  width: 100%;
+  background: #111;
+  border-radius: 7px;
+  margin-top: 15px;
+  transition: 0.2s all;
+}
+
+.kotak:hover {
+  border-radius: 7px;
+  background: #222;
+}
+
+.btn {
+  background: #111;
+  border: none;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.cbox {
+  border-radius: 5px;
+  background-color: #111;
+  margin: 10px;
+  padding: 5px;
+}
+
+.outer {
+  overflow: hide;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  margin: auto;
+  padding: 15px;
+  cursor:default;
+}
+
+.title {
+  color: #fefefe;
+  font-weight: bold;
+  font-size: 17px;
+  margin: 0;
+  padding: 0;
+}
+
+.sub {
+  color: #999;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.sub2 {
+  color: #fff;
+  font-size: 14px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+  
+.sub2 img {
+  border-radius: 50px;
+  border: 2px solid white;
+  }
+
+.club {
+ color: #fff;
+ font-size: 13px;
+ padding: 10px;
+ padding-left: 12px;
+}
+
+.club img {
+ margin-right: 10px;
+ margin-top: 0px;
+ padding: 0;
+ width: 14px;
+}
+
+.count {
+  text-align: center;
+  border: none;
+  border-radius: 3px;
+  padding: 3px 7px;
+  background: #111;
+  color: #fff;
+  font-size: 12px;
+  margin: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}  
+  
+.bungkus {
+  display: grid;
+  padding: 10px 10px;
+  margin: auto;
+  /* margin: 0 40px 40px; */
+  grid-gap: 12px;
+  grid-template-columns: repeat(5, 1fr);
+}
+  
+.bungkus img {
+  width: 100%;
+  margin-bottom: 5px;
+  background: #000;
+  border-radius: 0px;
+  transition: 0.2 all;
+  outline: 2px solid #fff;
+  border-radius: 50px;
+}
+  
+.bungkus img:hover {
+  outline: 2px solid #14bef0;
+  border-radius: 50px;
+}  
+  
+.blink {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}  
