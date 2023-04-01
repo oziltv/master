@@ -1,0 +1,67 @@
+ 
+ body {
+  background: #000;
+}
+  
+.vl {
+  border-left: 1px solid #fff;
+  height: 50px;
+  position: absolute;
+  right: 30%;
+  top: 18%;
+}
+  
+.jam {
+  color: #fff;
+  position: absolute;
+  font-size: 13px;
+  right: 5%;
+  top: 22%;
+}
+
+.kotak {
+  position: relative;
+  width: 100%;
+  background: #515451;
+  border-radius: 7px;
+  margin-top: 2px;
+  transition: 0.2s all;
+}
+.kotak2 {
+  position: relative;
+  color: #ffff;  
+  background: #13261d;
+  border-radius: 7px;
+  margin-top: -3px;
+  padding: 2x;  
+  transition: 0.6s all;
+}
+
+
+.club {
+ color: #F0FFF0;
+ font-size: 12px;
+ padding: 10px;
+ padding-left: 12px;
+}
+
+.club img {
+ margin-right: 10px;
+ margin-top: 0px;
+ padding: 0;
+ width: 15px;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+.live {font-size:11px;margin-top:1px;text-align:right;color:#fff;float:right;margin-right:-20px;border-radius:50px;background:red;padding:1px 7px 0 5px;
+}
+.live2 {font-size:11px;margin-top:1px;text-align:right;color:transparent;float:center;margin-right:50px;border-radius:50px;background:transparent;padding:1px 7px 0 5px;}
+.game-itme {margin-bottom:10px;}
+.time-is-captitle2 {margin-bottom:0px;
+}
+.live3 {font-size:11px;margin-top:1px;text-align:center;color:red;float:center;margin-right:20px;border-radius:50px;background:#F0FFF0;padding:1px 7px 0 5px;
+} 
+   
