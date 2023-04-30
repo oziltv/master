@@ -28,4 +28,32 @@ function dazn17(){document.getElementById("tv") .innerHTML='<iframe name="djbott
 }
 function bein2malay(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/bein2-malay.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
 }
+function astro1(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/astrosport1.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function astro2(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/astrosport2.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function astro3(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/astrosport3.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function astro4(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/astrosport4.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function ch5sg(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/ch5sg.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function onfootball(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/onfoootbal.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function vfootbal(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/vsportfoot.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function vprem(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/vprem_30.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function zgfoot(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/zgfootbal.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function bein1prem(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/bein1prem.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function bein12rem(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/bein2prem.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function espndeportes(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/espn-deportes.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function cmoref1(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/cmore-footbal1.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
+function cmoref2(){document.getElementById("tv") .innerHTML='<iframe name="djbottom" src="https://cebongtv1.blogspot.com/p/cmore-fot2.html" width="100%" height="450" frameborder="0" id="iframeplayer" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" data-secrt="UT9k" security="restricted" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">加载中...</iframe>';
+}
 
