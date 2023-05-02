@@ -20,7 +20,7 @@ var jwDefaults = {
     "file": "https://cdn.jsdelivr.net/gh/oziltv/master@main/log%20cb.png",
     "hide": false,
     "margin": "10",
-    "position": "top-right"
+    "position": "bottom-left"
   },
   "mute": false,
   "ph": 1,
