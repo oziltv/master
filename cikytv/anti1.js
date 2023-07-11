@@ -1,4 +1,4 @@
-/*<![CDATA[*/
+<script>/*<![CDATA[*/
 function searchToggle() {
    var element = document.getElementById("search");
    element.classList.toggle("block");
@@ -11,7 +11,8 @@ function myFunction() {
    element.classList.toggle("on");
 }
 /*]]>*/
-  
+      </script>
+<script async='async'>
 //<![CDATA[
 (function () {
   const e = document.querySelectorAll(".DagPlayOpt");
@@ -56,21 +57,19 @@ function myFunction() {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("serverOpen").click();
 //]]>
-  
-  document.getElementById('syn-target').appendChild(
-    document.getElementById('synopsis')
-  ); 
-/*]]>*/  
-  
-document.querySelector('.post-body').querySelector('.separator').firstElementChild.remove()  
-  
-/*<![CDATA[*/ 
+</script>
+<script>document.querySelector('.post-body').querySelector('.separator').firstElementChild.remove()</script>
+<script>/*<![CDATA[*/ 
   document.getElementById('extra-target').appendChild(
     document.getElementById('extra-info')
   ); 
-/*]]>*/  
-  
-/*<![CDATA[*/ 
+/*]]>*/</script>
+<script>/*<![CDATA[*/ 
+  document.getElementById('syn-target').appendChild(
+    document.getElementById('synopsis')
+  ); 
+/*]]>*/</script>
+<script>/*<![CDATA[*/ 
 function openTab(evt, cityName) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
@@ -87,12 +86,13 @@ function openTab(evt, cityName) {
 
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
-/*]]>*/  
-  
-   //<![CDATA[
+/*]]>*/</script>
+<script>
+      //<![CDATA[
 var uri = window.location.toString();if (uri.indexOf("?m=1","?m=1") > 0) {var clean_uri = uri.substring(0, uri.indexOf("?m=1"));window.history.replaceState({}, document.title, clean_uri);}
-//]]>  
-  
+//]]>
+    </script>
+<script>
   /*<![CDATA[*/
   /* Countdown Discount Script by Fineshop Design */
   const dayElm = document.querySelector('.cdBox .days'),
@@ -117,9 +117,9 @@ var uri = window.location.toString();if (uri.indexOf("?m=1","?m=1") > 0) {var cl
   setInterval(() => {
     eventEnded ? (cdCont.classList.add('ended')) : updateTimer()
   }, 1e3);
-  /*]]>*/  
-  
-//<![CDATA[
+  /*]]>*/
+</script>
+<script>//<![CDATA[
 function displayNum(){
 var dataLocal = JSON.parse(localStorage.getItem('bookmark'));
 let num = 0;
@@ -129,8 +129,8 @@ num++
 $('.numshow').html(num);
 }
 displayNum();
-    //]]>
-//<![CDATA[
+    //]]></script>
+<script>//<![CDATA[
 var limitBookmark = 100;
 var bookmark = (function(){
 list = [];
@@ -236,13 +236,16 @@ if(list.length<limitBookmark){
 displayNum();
   })
 });
-     //]]>  
-  $(document).ready(function(){
+     //]]></script>
+<script>
+$(document).ready(function(){
   $(".Report").click(function(){
     $("body").toggleClass("rep");
   });
 });
-  //<![CDATA[
+</script>
+<script type='text/javascript'>
+//<![CDATA[
 function showLucky(root){
     var feed = root.feed;
     var entries = feed.entry || [];
@@ -274,3 +277,4 @@ function feelingLucky(){
     document.getElementsByTagName('head')[0].appendChild(script);
     }
 //]]>
+</script> 
